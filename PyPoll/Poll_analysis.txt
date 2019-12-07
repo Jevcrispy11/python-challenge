@@ -1,0 +1,9 @@
+Small Town Vote Results 
+-----------------------
+Total Votes: 3521001 
+Li:14% (492940) 
+Khan:63% (2218231) 
+Correy:20% (704200) 
+O'Tooley:3% (105629) 
+----------------------- 
+Winner: Khan 
